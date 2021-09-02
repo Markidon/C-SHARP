@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\GeekBrains\Homework№2\Homework№2.3\bin\Debug\netcoreapp3.1\Homework№2.3.exe
+C:\Users\user\Desktop\GeekBrains\Homework№2\Homework№2.3\bin\Debug\netcoreapp3.1\Homework№2.3.deps.json
+C:\Users\user\Desktop\GeekBrains\Homework№2\Homework№2.3\bin\Debug\netcoreapp3.1\Homework№2.3.runtimeconfig.json
+C:\Users\user\Desktop\GeekBrains\Homework№2\Homework№2.3\bin\Debug\netcoreapp3.1\Homework№2.3.runtimeconfig.dev.json
+C:\Users\user\Desktop\GeekBrains\Homework№2\Homework№2.3\bin\Debug\netcoreapp3.1\Homework№2.3.dll
+C:\Users\user\Desktop\GeekBrains\Homework№2\Homework№2.3\bin\Debug\netcoreapp3.1\Homework№2.3.pdb
+C:\Users\user\Desktop\GeekBrains\Homework№2\Homework№2.3\obj\Debug\netcoreapp3.1\Homework№2.3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GeekBrains\Homework№2\Homework№2.3\obj\Debug\netcoreapp3.1\Homework№2.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GeekBrains\Homework№2\Homework№2.3\obj\Debug\netcoreapp3.1\Homework№2.3.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GeekBrains\Homework№2\Homework№2.3\obj\Debug\netcoreapp3.1\Homework№2.3.AssemblyInfo.cs
+C:\Users\user\Desktop\GeekBrains\Homework№2\Homework№2.3\obj\Debug\netcoreapp3.1\Homework№2.3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GeekBrains\Homework№2\Homework№2.3\obj\Debug\netcoreapp3.1\Homework№2.3.dll
+C:\Users\user\Desktop\GeekBrains\Homework№2\Homework№2.3\obj\Debug\netcoreapp3.1\Homework№2.3.pdb
+C:\Users\user\Desktop\GeekBrains\Homework№2\Homework№2.3\obj\Debug\netcoreapp3.1\Homework№2.3.genruntimeconfig.cache
